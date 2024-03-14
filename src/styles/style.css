@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hotpink;
+}
+img {
+  max-width: 100%;
+}
+p {
+  color: white;
+}
